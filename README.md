@@ -1,4 +1,6 @@
 # PATC: Introduction to Big Data Analytics @ BSC
-![Course](images/banner.jpg)
+<p align="center">
+  <img src="images/banner.png">
+</p>
 
 Introduction to the main concepts and technologies related to Big Data and Data Analytics and its applications to real projects.
