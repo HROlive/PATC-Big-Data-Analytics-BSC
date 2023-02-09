@@ -36,7 +36,7 @@ The exercises and assessments can be found in this repository and are organized 
 - [Day 1 - Introduction to Big Data, Practical Data Analytics for Solving Real World Problems, Hands-on (How to structure a data analytics project);](https://github.com/HROlive/PATC-Big-Data-Analytics-BSC/tree/main/Day%201)
 - [Day 2 - Big Data Management, NoSQL databases, Multidisciplinary research and data analytics: Cultural Heritage;](https://github.com/HROlive/PATC-Big-Data-Analytics-BSC/tree/main/Day%202)
 - [Day 3 - Data Analytics with Apache Spark, Hifi-Turb: high-fidelity les/dns data for innovative turbulence models (A H2020 European Project);](https://github.com/HROlive/PATC-Big-Data-Analytics-BSC/tree/main/Day%203)
-- [Day 4 - Bias in Science (Sex and Gender Perspective in Big Data Analytics), Business Intelligence, Data analytics, modelling and simulation for solving city challenges (Use case: achieving clean air in Barcelona);]()
+- [Day 4 - Bias in AI (Sex and Gender Perspective in Big Data Analytics), Business Intelligence, Data analytics, Modelling and simulation for solving city challenges (Use case: achieving clean air in Barcelona);](https://github.com/HROlive/PATC-Big-Data-Analytics-BSC/tree/main/Day%204)
 - [Day 5 - Data Visualization Theory;]()
 
 <a name="certificate"></a>
