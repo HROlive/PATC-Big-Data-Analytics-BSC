@@ -44,4 +44,4 @@ The exercises and assessments can be found in this repository and are organized 
 
 The certificate for the course can be found bellow:
 
-["" - ]() (Issued On: February 2023)
+["Introduction to Big Data Analytics" - Barcelona Supercomputing Center](https://github.com/HROlive/PATC-Big-Data-Analytics-BSC/blob/main/images/Oliveira-Hugo_StatementParticipation_BigData23.pdf) (Issued On: February 2023)
