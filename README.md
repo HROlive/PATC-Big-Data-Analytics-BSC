@@ -13,18 +13,18 @@
 ## Description
 
 The objective of this course was to introduce the main concepts and technologies related to Big Data and Data Analytics and its applications to real projects.
-The course brought together key information technologies used in manipulating, storing, and analysing data.
+The course brought together key information technologies used in manipulating, storing, and analyzing data.
 
-Students were introduced to systems that can accept, store, and analyse large volumes of unstructured data. The learned skills can be used in data intensive application areas.
+Students were introduced to systems that can accept, store, and analyze large volumes of unstructured data. The learned skills can be used in data-intensive application areas.
 
 <a name="information"></a>
 ## Information
 
 The overall goals of this course were the following:
 > - Introduction to storage and process unstructured data. Main concepts of NoSQL databases;
-> - Large scale processing: Apache Spark and its core libraries for data manipulation, machine learning, data streams and graph analytics;
+> - Large-scale processing: Apache Spark and its core libraries for data manipulation, machine learning, data streams and graph analytics;
 > - Characterization of a data mining problem and its relation with business intelligence, dig data and exploratory statistics;
-> - Basics of Python deep learning technics with TensorFlow;
+> - Basics of Python deep learning techniques with TensorFlow;
 > - Basic concepts of data visualization and tools.
 
 More detailed information and links for the course can be found on the [course website](https://events.prace-ri.eu/event/1472/).
@@ -42,6 +42,6 @@ The exercises and assessments can be found in this repository and are organized 
 <a name="certificate"></a>
 ## Certificate
 
-The certificate for the course can be found bellow:
+The certificate for the course can be found below:
 
 ["Introduction to Big Data Analytics" - Barcelona Supercomputing Center](https://github.com/HROlive/PATC-Big-Data-Analytics-BSC/blob/main/images/Oliveira-Hugo_StatementParticipation_BigData23.pdf) (Issued On: February 2023)
